@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+tmp
+*_old
+*_backup
+/img/THumbs.db
+.DS_Store
+
